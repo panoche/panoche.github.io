@@ -1,2 +1,1 @@
-# panoche.github.io
 Website
